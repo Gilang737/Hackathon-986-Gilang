@@ -5,3 +5,8 @@ Sebuah bot discord yang akan membantu kita mengklasifikasikan sampah yang akan d
 
 ### Bahan-Bahan:
 Bot ini akan menggunakan banyak dataset seperti jenis-jenis sampah organik atau sampah-sampah anorganik dan jenis jenis tanaman.
+
+### Library:
+1. Discord
+2. Tenserflow
+3. Keras

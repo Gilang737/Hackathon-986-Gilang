@@ -8,5 +8,6 @@ Bot ini akan menggunakan banyak dataset seperti jenis-jenis sampah organik atau 
 
 ### Library:
 1. Discord
-2. Tenserflow
-3. Keras
+2. Flask
+3. Tenserflow
+4. Keras
